@@ -40,7 +40,6 @@ public class Player : MonoBehaviour
     {
         //Mover o pato
         rigidBody.velocity = new Vector3(forcaAndar * Input.GetAxis("Horizontal"), rigidBody.velocity.y, 0);
-        Debug.Log(rigidBody.velocity);
 
         if (Input.GetKeyDown(KeyCode.Space) && estaChao == true) 
         {
