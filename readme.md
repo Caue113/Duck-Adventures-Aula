@@ -28,7 +28,7 @@ If you don't have git, download it in [this website](https://git-scm.com/)
 
 # Challenges
 
-(To do)
+For those who want to practice what learned with this project or classes, reach out to [Challenges](./challenges.md) to exercise your skills.
 
 # Credits
 
