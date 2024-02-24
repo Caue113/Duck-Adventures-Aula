@@ -4,6 +4,7 @@ using UnityEditor.UI;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+namespace ProjetoTutorial
 public class Player : MonoBehaviour
 {
     Rigidbody rigidBody;
